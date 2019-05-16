@@ -149,7 +149,7 @@
 
 #film1 {
   background-color: black;
-  background-image:url("https://cdn.pbrd.co/images/GFUpugT.png");
+  background-image:url("../img/cross.png");
   background-size: cover;
   
   background-repeat:no-repeat;
@@ -165,7 +165,7 @@ background-position:center;
 }
 
 #film1:hover {
-    background-image: url("https://media.giphy.com/media/bdfAZTukMNB60/giphy.gif");
+    background-image: url("../img/Cross_Film.gif");
   background-size: cover;
   /*background-position: left center;*/
   
@@ -179,7 +179,7 @@ background-position:center;
 
 #film2 {
   background-color: black;
-  background-image:url("https://cdn.pbrd.co/images/GFLpgjE.png");
+  background-image:url("../img/MMFinal.png");
   background-size: cover;
   /*background-position: 0% 80%;*/
   
@@ -192,14 +192,14 @@ background-position:center;
 }
 
 #film2:hover {
-    background-image: url("https://media.giphy.com/media/I2K8NPFBdbqZW/giphy.gif");
+    background-image: url("../img/Middleman_Film.gif");
   background-size: cover;
   background-position: left center;
 }
 
 #film3 {
   background-color: black;
-  background-image:url("https://cdn.pbrd.co/images/GFTY7nK.png");
+  background-image:url("../img/Method.png");
   background-size: cover;
   background-position: 0% 80%;
   
@@ -212,7 +212,7 @@ background-position:center;
 }
 
 #film3:hover {
-    background-image: url("https://media.giphy.com/media/x6W0eMMRRb2rm/giphy.gif");
+    background-image: url("../img/Method_Film.gif");
   background-size: cover;
   /*background-position: left center;*/
   
@@ -225,7 +225,7 @@ background-position:center;
 }
 
 #film4 {
-  background-image:url("https://cdn.pbrd.co/images/GFUNHYe.jpg");
+  background-image:url("../img/THC_Film.jpg");
   background-size: cover;
   /*background-position: 0% 55%;*/
   
