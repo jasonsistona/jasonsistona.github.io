@@ -118,6 +118,7 @@ html {
 	  /*background-image: url("https://cdn.pbrd.co/images/GG1gprF.jpg");*/
 	  background-position: 69% 237%;
 	  background-size: 30% 80%;
+
 	  background-color:#ecd8bf;
 	}
 }
@@ -156,8 +157,8 @@ html {
 	  height: 50%;
 
 	  background-image: url("../img/connect.jpeg");
-	  background-position: 110% -120%;
-	  background-size: -100% 100%;
+	  background-position: 115% -35%;
+	  background-size: auto;
 	  background-color:#505a66;
 	}
 }
@@ -286,7 +287,7 @@ h2 {
 
 #logo4 {
   left: 63%;
-  background-position: 0% 0%;
+  background-position: 33% 0%;
   background-size: auto 130%;
 }
 .logo {
