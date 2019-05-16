@@ -116,8 +116,9 @@ html {
 	  height: 60%;
 	  background-image: url("../img/photos.jpeg");
 	  /*background-image: url("https://cdn.pbrd.co/images/GG1gprF.jpg");*/
-	  background-position: 69% 237%;
-	  background-size: 30% 80%;
+	  background-position: auto 200%;*/
+	  background-size: auto auto;
+	  background-position: absolute;
 	  background-color:#ecd8bf;
 	}
 }
