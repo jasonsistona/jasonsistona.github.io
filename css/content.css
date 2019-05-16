@@ -165,7 +165,7 @@ background-position:center;
 }
 
 #film1:hover {
-    background-image: url(../img/Cross_Film.gif);
+    background-image: url("https://media.giphy.com/media/bdfAZTukMNB60/giphy.gif");
   background-size: cover;
   /*background-position: left center;*/
 }
