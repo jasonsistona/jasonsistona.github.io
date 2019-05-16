@@ -267,10 +267,25 @@ h2 {
   .parallax{
     background-attachment: scroll
   }
-  #logo1 {
+  
+ #logo1 {
   left: 30%;
   background-position: 0% 5%;
   background-size: auto 130%;
+}
+
+#media-container{
+  height: 20%;
+  visibility: hidden;
+  top: 7%;
+  position: absolute;
+  width: 100%;
+}
+
+.icon-resize {
+    height: 12.8vh;
+    margin-right: 0%;
+    margin-left: 0%;
 }
 
 #logo2 {
